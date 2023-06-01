@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UmerFarooq79
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently providing frontend web development services including HTML, CSS JS and React
 - 💞️ I’m looking to collaborate on Practicing my Web Development skills
 - 📫 How to reach me: humarfarooq8@gmail.com
 
